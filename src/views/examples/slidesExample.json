@@ -1,0 +1,22 @@
+{
+    "customSlideCpnt": {
+
+        "items": [
+            {
+                "imgSrc": "https://...",
+                "des1": "Black",
+                "des2": "White"
+            },
+            {
+                "imgSrc": "https://...",
+                "des1": "Black",
+                "des2": "White"
+            },
+            {
+                "imgSrc": "https://...",
+                "des1": "Black",
+                "des2": "White"
+            }
+        ]
+    }
+}
